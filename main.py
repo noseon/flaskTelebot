@@ -33,7 +33,7 @@ class ChatGPT:
 
 #####################
 
-telegram_bot_token = str(os.getenv("TELEGRAM_BOT_TOKEN"))
+telegram_bot_token = str(os.getenv("6294585980:AAH8WFD-CbbMfV6ZEtYV36m58qPGHvQTxjY"))
 
 # Load data from config.ini file
 #config = configparser.ConfigParser()
